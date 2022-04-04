@@ -1,0 +1,1268 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "11.956696",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "11.956696"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "19.487433",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "19.487433"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "22.129797",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "22.129797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "28.47147",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "28.47147"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "33.095606",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "33.095606"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "37.719743",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "37.719743"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "43.665061",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "43.665061"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "44.589889",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "44.589889"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "46.637721",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "46.637721"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "50.048022",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "50.048022"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "52.971136",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "52.971136"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "58.338438",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "58.338438"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "66.348103",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "66.348103"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "69.469395",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "69.469395"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "81.607754",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "81.607754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "82.895906",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "82.895906"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "87.008085",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "87.008085"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "113.225288",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "113.225288"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "123.563536",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "123.563536"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "149.392642",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "149.392642"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "166.601036",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "166.601036"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "186.187558",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "186.187558"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "188.697804",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "188.697804"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "199.432406",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "199.432406"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "204.122602",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "204.122602"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "206.071345",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "206.071345"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "225.988162",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "225.988162"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "235.797938",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "235.797938"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "257.663498",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "257.663498"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "286.828589",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "286.828589"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "289.206716",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "289.206716"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "305.853608",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "305.853608"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "308.793237",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "308.793237"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "312.723754",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "312.723754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "314.771586",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "314.771586"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "317.34789",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "317.34789"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "320.386609",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "320.386609"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "321.575672",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "321.575672"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "327.190695",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "327.190695"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "332.772689",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "332.772689"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "350.245319",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "350.245319"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "380.632503",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "380.632503"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "412.9354",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "412.9354"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "421.853378",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "421.853378"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "425.552687",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "425.552687"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "434.933079",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "434.933079"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "460.762184",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "460.762184"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "481.488225",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "481.488225"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "483.816808",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "483.816808"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "502.313355",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "502.313355"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "526.689161",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "526.689161"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "528.20852",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "528.20852"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "529.265466",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "529.265466"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "530.520588",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "530.520588"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "538.645857",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "538.645857"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "543.930585",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "543.930585"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "561.964717",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "561.964717"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "579.536436",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "579.536436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "588.982887",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "588.982887"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "606.554606",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://brookshefner.github.io/BE7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "606.554606"
+        }
+      }
+    }
+  ]
+}
